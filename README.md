@@ -51,7 +51,7 @@ Following are some of the features of this component.
 <<<<<<< HEAD
 ![SPFx 1.40](https://img.shields.io/badge/SPFx-1.14-green.svg)
 =======
-![SPFx 1.13.1](https://img.shields.io/badge/SPFx-1.13.1-green.svg)
+![SPFx 1.14](https://img.shields.io/badge/SPFx-1.13.1-green.svg)
 >>>>>>> 15d3183 (Montée en version SPFx 1.14 + nettoyage dépendances)
 ![Node.js v14 | v12](https://img.shields.io/badge/Node.js-v14%20%7C%20v12-green.svg)
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
