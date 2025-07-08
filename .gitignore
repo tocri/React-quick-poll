@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 node_modules
+=======
+node_modules/
+temp/
+lib/
+dist/
+coverage/
+release/
+sharepoint/solution/
+*.sppkg
+React-quick-poll-main/
+>>>>>>> 15d3183 (Montée en version SPFx 1.14 + nettoyage dépendances)
